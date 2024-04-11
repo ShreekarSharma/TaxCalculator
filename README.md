@@ -31,6 +31,9 @@ To run the project locally, follow these steps:
 2. Open the project directory and locate the `index.html` file.
 3. Double-click the `index.html` file to open it in your web browser.
 
+## Deployment
+(Click here](https://shreekarsharma.github.io/TaxCalculator/)
+
 ## Assumptions
 
 - Red border on input fields indicates an error for characters entered instead of numbers.
