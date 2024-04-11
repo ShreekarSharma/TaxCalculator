@@ -32,7 +32,7 @@ To run the project locally, follow these steps:
 3. Double-click the `index.html` file to open it in your web browser.
 
 ## Deployment
-(Click here](https://shreekarsharma.github.io/TaxCalculator/)
+[Click here](https://shreekarsharma.github.io/TaxCalculator/)
 
 ## Assumptions
 
