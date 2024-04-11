@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.outer-div{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+.btn-submit,
+.btn-submit:hover{
+    color: #fff;
+    background: #6559f5;
+}
+.button-close,
+.button-close:hover{
+    color: #fff;
+    background: #6559f5;
+}
+input{
+    box-shadow: none !important;
+}
+input[type=text],
+input[type=number],
+.bi-exclamation-circle{
+    display: inline-block;
+}
+.bi-exclamation-circle{
+    margin-left: -25px;
+}
+.hide{
+    display: none;
+}
+.red-outline:focus{
+    border-color: red;
+}
+.green-outline:focus{
+    border-color: green;
+}
